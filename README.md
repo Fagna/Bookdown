@@ -1,3 +1,3 @@
 # Git
 
-Olha, estou versionando o R.
+Versionamento do R.
