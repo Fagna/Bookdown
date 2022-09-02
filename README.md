@@ -1,4 +1,4 @@
-# Bookdown
+# ML tutorial using bookdown
 
 Shiny tutorial with machine learning using a tidymodels library.
 
